@@ -8,7 +8,7 @@ The ESPD Exchange Data Model is the technical representation of the legal Europe
 ## Purpose of this branch
 
 This branch has been created to include changes in the ESPD-criterion spreadsheet and the related artefacts as the ESPD-criterion XML file, which is the basis for the creation of XML samples and also for the UUID validation. 
-
+To secure this branch.Changes made it to private.
 Therefore, the changes that can be found in this branch will be related to the following files: 
 
 * [ESPD-criterion.xslx](https://github.com/OP-TED/ESPD-EDM/blob/criterion-evolution/codelists/ESPD-criterion.xlsx)
@@ -26,3 +26,4 @@ Therefore, the changes that can be found in this branch will be related to the f
 The ESPD-EDM is made publicly available through GitHub. 
 * To browse or access the model, there is no need to be registered in Github.
 * To create issues concerning the ESPD-EDM a GitHub registered user is needed.
+* To create issues concerning privacy of this branch made it only possible for users read only.
